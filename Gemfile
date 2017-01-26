@@ -34,9 +34,7 @@ end
 
 gem 'bootstrap-sass', '~> 3.3.5.1'
 
-#Include bootstrap
-gem 'bootstrap', '~> 4.0.0.alpha6'
-
+gem 'sprockets', '2.11.0'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
 
